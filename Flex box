@@ -1,0 +1,19 @@
+<!Doctype html>
+	<html>
+	<head>
+		<style>
+		.container {display: flex;flex-wrapflex: wrap;background-color: darkgoldenrod;padding: 10px;margin: 25px;border-radius:color:firebrick; 25px;-shrink: 2;flex-shrink: 3;flex-shrink: 4;}
+
+		.item{background-color: lightsalmon;margin: 20px;padding: 20px;font-size: 30px;width: 150px;}
+	</style>
+	</head>
+	<body>
+		<div class="container">
+		<div class="item" 1>My favourite hobby is watching anime because it is relaxing and is very fun to do.</div>
+		<div class="item" 2>My second favourite hobby is playing video games as it's fun and competetive .</div>
+		<div class="item" 3>My third favourite hobby is scooting as I like doing tricks.</div>
+		<div class="item" 4>My fourth favourite hobby is drawing as it's calming.</div>
+		<div class="item" 5>My fifth favourite hobby is reading as I learn .</div>
+		<div class="item" 6>My sixth favourite hobby is playing.</div>
+	</body>
+	</html>
